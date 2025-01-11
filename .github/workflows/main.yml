@@ -18,7 +18,7 @@ jobs:
           kernel-url: https://github.com/ben443/S20FE.git
           #kernel-dir: msm-4.19
           kernel-branch: main
-          config: halium_defconfig
+          config: config
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
